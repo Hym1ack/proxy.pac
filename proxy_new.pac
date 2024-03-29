@@ -943,7 +943,7 @@ function FindProxyForURL(url, host) {
           'yt3.ggpht.com'
           ];
   if (fbtw.indexOf(shost) !== -1) {
-    return "SOCKS5 127.0.0.1:1080; HTTPS 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
+    return "SOCKS5 127.0.0.1:1080; HTTP 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
   }
 
   var curdomain = shost.match(/(.*)\.([^.]+$)/);
@@ -982,7 +982,7 @@ function FindProxyForURL(url, host) {
     // You should NOT use these proxy servers outside of PAC file!
     // DO NOT enter it manually in any program!
     // By doing this, you harm the service!
-    return "SOCKS5 127.0.0.1:1080; HTTPS 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
+    return "SOCKS5 127.0.0.1:1080; HTTP 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
   }
 
   return "DIRECT";
