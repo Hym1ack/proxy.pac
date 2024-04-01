@@ -1,11 +1,6 @@
 // ProstoVPN.AntiZapret PAC-host File
 // Generated on Mon 01 Apr 2024 02:40:58 PM MSK, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
 // THIS FILE IS NEITHER OBFUSCATED NOR ENCRYPTED, IT'S COMPRESSED TO COMPLY WITH BROWSER PAC FILE SIZE LIMITS.
-//
-// NOTE 1: Proxy.pac file content varies on User-Agent HTTP header.
-// NOTE 2: Some badly behaving User-Agents are banned, they get empty response.
-// NOTE 3: Do not request PAC file faster than once a minute, rate limiting is applied.
-// NOTE 4: Do not use the proxy servers outside of this file.
 
 domains = {
 "dog":{2:2,3:3,4:4,5:5,6:6},
@@ -941,7 +936,7 @@ function FindProxyForURL(url, host) {
           'yt3.ggpht.com'
           ];
   if (fbtw.indexOf(shost) !== -1) {
-    return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
+    return "HTTPS f.thenewone.lol:3145; DIRECT";
   }
 
   var curdomain = shost.match(/(.*)\.([^.]+$)/);
@@ -976,11 +971,7 @@ function FindProxyForURL(url, host) {
   }
   if (yip === 1 || rip === 1 || curarr.indexOf(curhost) !== -1) {
 
-    // WARNING! WARNING! WARNING!
-    // You should NOT use these proxy servers outside of PAC file!
-    // DO NOT enter it manually in any program!
-    // By doing this, you harm the service!
-    return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
+    return "HTTPS s.thenewone.lol:3145; PROXY n.thenewone.lol:29976; DIRECT";
   }
 
   return "DIRECT";
