@@ -6,7 +6,7 @@
 
 
 ### Постоянная ссылка на удалённый PAC-файл:
->**Данные обновляются каждые 6 часов.**
+>**Проверка обновленных данных выполняется каждые 6 часов.**
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 
@@ -21,7 +21,7 @@ Modified Proxy Auto Configuration (PAC) file from **antizapret.prostovpn.org** w
 
 
 ### Permanent link to the remote PAC file:
->**The data is updated every 6 hours.**
+>**Updated data is checked every 6 hours.**
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 
