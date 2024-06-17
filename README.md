@@ -18,8 +18,7 @@ https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 
 ### EN
 
-Modified Proxy Auto Configuration (PAC) file from **antizapret.prostovpn.org** with redirect to your own local proxy (127.0.0.1:1080).
-E.g. for [ShadowSocks (Online PAC)](https://github.com/onminonA/proxy.pac/wiki#shadowsocks-1), for [Firefox (Automatic proxy configuration URL)](https://github.com/onminonA/proxy.pac/wiki#firefox-1) and etc.
+Modified Proxy Auto Configuration (PAC) file from **antizapret.prostovpn.org** with redirect to your own local proxy (127.0.0.1:1080), e.g. for [ShadowSocks (Online PAC)](https://github.com/onminonA/proxy.pac/wiki#shadowsocks-1), for [Firefox (Automatic proxy configuration URL)](https://github.com/onminonA/proxy.pac/wiki#firefox-1) and etc.
 
 
 ### Permanent link to the remote PAC file:
