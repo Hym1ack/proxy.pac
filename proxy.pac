@@ -1,10 +1,6 @@
-// ProstoVPN.AntiZapret PAC-host File
-// Generated on Fri 19 Jul 2024 03:01:10 AM MSK, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
-// THIS FILE IS NEITHER OBFUSCATED NOR ENCRYPTED, IT'S COMPRESSED TO COMPLY WITH BROWSER PAC FILE SIZE LIMITS.
 domains = {
 "dog":{1:1,2:2,3:3,5:10,6:6},
 "porn":{2:6,3:12,4:44,5:55,6:42,7:35,9:9,10:10,11:11},
-"gdn":{2:2,4:8,5:5,6:12,8:16},
 "plus":{2:2,3:12,4:36,5:50,6:60,7:35,8:16,10:10,11:11},
 "green":{3:3,4:8,5:20,6:6,7:14},
 "tips":{3:3,4:20,5:10,6:6,10:10},
