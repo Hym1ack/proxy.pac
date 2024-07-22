@@ -7,14 +7,24 @@
 
 
 ### Постоянная ссылка на удалённый PAC-файл:
->**Проверка обновлённых данных выполняется каждые 4 часа.**
+>**Проверка обновлённых данных выполняется каждые 4 часа.
+>(Временно не обновляется на стороне antizapret.prostovpn.org)**
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 
 <br>
 
+###  Для Firefox и браузеров на основе Firefox. Медленный способ, возможно нарушение доступа ко всем сайтам до нескольких минут (из-за большого объёма данных).
+#### Постоянная ссылка на удалённый PAC-файл, применимо ТОЛЬКО в Firefox и в браузерах на основе Firefox:
+>**Проверка обновлённых данных выполняется каждые 6 часов.**
+
+https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
+
+<br>
+
 ---
 
+<br>
 
 ### EN
 
@@ -22,7 +32,15 @@ Modified Proxy Auto Configuration (PAC) file from **antizapret.prostovpn.org** w
 
 
 ### Permanent link to the remote PAC file:
->**Updated data is checked every 4 hours.**
+>**Updated data is checked every 4 hours.
+>(Temporarily not updated on the antizapret.prostovpn.org side)**
 
 https://raw.githubusercontent.com/onminonA/proxy.pac/main/proxy.pac
 
+<br>
+
+### For Firefox and Firefox-based browsers. Slow method, access to all sites may be disrupted for up to few minutes (due to the large amount of data).
+#### Permanent link to the remote PAC file, applicable ONLY for Firefox and Firefox-based browsers:
+>**Updated data is checked every 6 hours.**
+>
+https://raw.githubusercontent.com/onminonA/proxy.pac/main/firefox_proxy.pac
