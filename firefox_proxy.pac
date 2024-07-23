@@ -1,5 +1,5 @@
 // RU-PAC anti-censorship in Russian Federation host File
-// Generated on Mon, 22 Jul 2024 22:58:04 +0000, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
+// Generated on Tue, 23 Jul 2024 00:01:25 +0000, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
 // THIS PAC FILE DOESN'T SUPPORT IN CHROMIUM-BASED BROWSERS (PAC file size limits).
 // SUPPORT ONLY IN FIREFOX-BASED BROWSERS!
 
