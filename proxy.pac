@@ -928,7 +928,7 @@ function FindProxyForURL(url, host) {
           'facebook.com', 'fbcdn.net',
           'instagram.com', 'cdninstagram.com',
           'fb.com', 'messenger.com',
-          'yt3.ggpht.com'
+          'yt3.ggpht.com',  '4pda.to', 'habr.com', 'chatgpt.com',
           ];
   if (fbtw.indexOf(shost) !== -1) {
 return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
