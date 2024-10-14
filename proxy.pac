@@ -928,7 +928,7 @@ function FindProxyForURL(url, host) {
           'facebook.com', 'fbcdn.net',
           'instagram.com', 'cdninstagram.com',
           'fb.com', 'messenger.com',
-          'yt3.ggpht.com',  '4pda.to', 'habr.com', 'chatgpt.com', 'auth.openai.com', 'youtube.com', 'googlevideo.com', 'youtu.be', 'speedtest.net',
+          'yt3.ggpht.com',  '4pda.to', 'habr.com', 'chatgpt.com', 'auth.openai.com', 'auth0.openai.com', 'youtube.com', 'googlevideo.com', 'youtu.be', 'speedtest.net',
 'discord-attachments-uploads-prd.storage.googleapis.com',
   'dis.gd',
   'discord.co',
