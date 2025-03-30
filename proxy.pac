@@ -952,7 +952,8 @@ function FindProxyForURL(url, host) {
   'i.ytimg.com',
   'broadcom.com',
   'spiceworks.com',
-  'cisco.com'
+  'cisco.com',
+  'robware.net'
           ];
   if (fbtw.indexOf(shost) !== -1) {
 return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
