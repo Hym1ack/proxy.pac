@@ -950,6 +950,7 @@ function FindProxyForURL(url, host) {
   'discordactivities.com',
   'discordsays.com', 'dtf.ru',
   'i.ytimg.com',
+  'ytimg.com',
   'broadcom.com',
   'spiceworks.com',
   'cisco.com',
