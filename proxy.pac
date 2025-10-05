@@ -936,7 +936,27 @@ function FindProxyForURL(url, host) {
   'spiceworks.com',
   'cisco.com',
   'robware.net',
-  'anthropic.com'
+  'anthropic.com',
+'discord-attachments-uploads-prd.storage.googleapis.com',
+  'dis.gd',
+  'discord.co',
+  'discord.com',
+  'discord.design',
+  'discord.dev',
+  'discord.gg',
+  'discord.gift',
+  'discord.gifts',
+  'discord.media',
+  'discord.new',
+  'discord.store',
+  'discord.tools',
+  'discordapp.com',
+  'discordapp.net',
+  'discordmerch.com',
+  'discordpartygames.com',
+  'discord-activities.com',
+  'discordactivities.com',
+  'discordsays.com'
           ];
   if (fbtw.indexOf(shost) !== -1) {
 return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
