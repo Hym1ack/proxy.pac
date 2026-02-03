@@ -956,7 +956,7 @@ function FindProxyForURL(url, host) {
   'discordpartygames.com',
   'discord-activities.com',
   'discordactivities.com',
-  'discordsays.com',
+  'discordsays.com', 'claude.com',
   'grok.com', 'accounts.x.ai', 'claude.com'
           ];
   if (fbtw.indexOf(shost) !== -1) {
