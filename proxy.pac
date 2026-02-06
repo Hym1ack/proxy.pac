@@ -956,8 +956,12 @@ function FindProxyForURL(url, host) {
   'discordpartygames.com',
   'discord-activities.com',
   'discordactivities.com',
-  'discordsays.com', 'claude.com',
-  'grok.com', 'accounts.x.ai', 'claude.com'
+  'discordsays.com',
+  'grok.com', 'accounts.x.ai', 'claude.com',
+'claude.ai',
+'api.anthropic.com',
+'cdn.anthropic.com',
+'anthropic.com',
           ];
   if (fbtw.indexOf(shost) !== -1) {
 return "HTTP 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1080; DIRECT";
